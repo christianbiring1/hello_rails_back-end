@@ -12,7 +12,7 @@ Now that I am familiar with Rails and React, in this project I had to put them t
 
 ## Live Demo
 
-The front-end App can be found [here](https://chris-react-on-rails.herokuapp.com/)
+The front-end App can be found [here](https://github.com/christianbiring1/hello_react_front-end)
 
 ### Prerequisites
 
@@ -24,14 +24,23 @@ Tu run this project in your local environment, You will need to have the followi
 
 ## Set up
 
+### Back-end
+
 * `git clone git@github.com:christianbiring1/hello-rails-backend.git`
 * `cd hello-rails-backend`
 * `bundle install`
 * `rails db:create`
 * `rails db:migrate`
 * `rails db:seed`
-* `rails s`
+* `rails s -p 3001`
 * Open up the `localhost` in your browser
+
+### Front-end
+
+* `git clone git@github.com:christianbiring1/hello_react_front-end.git`
+* `cd hello_react_front-end`
+* `npm install`
+* `npm start`
 
 ## Author
 
