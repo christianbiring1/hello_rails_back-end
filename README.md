@@ -12,7 +12,7 @@ Now that I am familiar with Rails and React, in this project I had to put them t
 
 ## Live Demo
 
-The front-end App can be found [here](https://github.com/christianbiring1/hello_react_front-end)
+The front-end App can be found [here](https://github.com/christianbiring1/hello_react_front-end/tree/develop)
 
 ### Prerequisites
 
